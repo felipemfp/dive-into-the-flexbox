@@ -1,6 +1,6 @@
 # Dive into the Flexbox
 
-> The flexbox is comming...
+> The flexbox is coming...
 
 Made with &hearts; following [How to Build a News Website Layout with Flexbox](http://webdesign.tutsplus.com/tutorials/how-to-build-a-news-website-layout-with-flexbox--cms-26611).
 
